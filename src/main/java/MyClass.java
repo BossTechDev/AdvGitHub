@@ -7,4 +7,7 @@ public class MyClass {
 
     //Version 3
     public String str3 = "And again another String";
+
+    //Techpro Branch, Version: t1
+    public String str4 = "String created in techpro branch";
 }
