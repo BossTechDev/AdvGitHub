@@ -10,4 +10,7 @@ public class MyClass {
 
     //Techpro Branch, Version: t1
     public String str4 = "String created in techpro branch";
+
+    //Techpro Branch, Version: t2
+    public String str5 = "Still a String created in techpro";
 }
